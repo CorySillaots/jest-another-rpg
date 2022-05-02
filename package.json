@@ -1,0 +1,22 @@
+{
+  "name": "jestanotherrpg",
+  "version": "1.0.0",
+  "description": "Push test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorySillaots/jest-another-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorySillaots/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/CorySillaots/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
